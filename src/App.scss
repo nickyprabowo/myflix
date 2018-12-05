@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Lato:400,700');
+@import './assets/scss/reset';
+@import './assets/scss/navbar';
+@import './assets/scss/card';
+
+body {
+  background: #f3f3f3;
+  font-family: 'Lato';
+  font-weight: 400;
+}
+
+.container {
+	padding: 3em 5em;
+}
